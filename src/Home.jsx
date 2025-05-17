@@ -13,10 +13,7 @@ function Home() {
                 <article>
                     <h3>Patient Info</h3>
                     <h5>
-                        Repo: <a href="#" target="_blank" rel="noopener noreferrer">GitHub Link</a>
-                    </h5>
-                    <h5>
-                        Website: <a href="#" target="_blank" rel="noopener noreferrer">Live Site</a>
+                        Repo: <a href="https://github.com/aslampa17/patient_info" target="_blank" rel="noopener noreferrer">GitHub Link</a>
                     </h5>
                     <p>
                         Patient Info is a web application that allows storing patient data.
@@ -34,10 +31,10 @@ function Home() {
                 <article>
                     <h3>Zaffra</h3>
                     <h5>
-                        Repo: <a href="#" target="_blank" rel="noopener noreferrer">GitHub Link</a>
+                        Repo: <a href="https://github.com/aslampa17/zaffra" target="_blank" rel="noopener noreferrer">GitHub Link</a>
                     </h5>
                     <h5>
-                        Website: <a href="#" target="_blank" rel="noopener noreferrer">Live Site</a>
+                        Website: <a href="https://zaffra.vercel.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
                     </h5>
                     <p>
                         Zaffra is a website I developed for a small-scale home business.
