@@ -96,6 +96,16 @@ a:hover {
 .logo {
     font-size: 1.5rem;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo img {
+    height: 125px;
+    width: auto;
+    object-fit: contain;
+    border-radius: 45%;
 }
 
 .nav-links {
