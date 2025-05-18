@@ -21,7 +21,7 @@ function Home() {
                         The app was developed for a doctor to use in personal consultations and research data collection.
                         It is an ongoing project with new features added based on the client's requirements.
                     </p>
-                    <div className="home-images">
+                    <div className="images">
                         <img src={patientInfoImg1} alt="Patient Info app screenshot 1" />
                         <img src={patientInfoImg2} alt="Patient Info app screenshot 2" />
                         <img src={patientInfoImg3} alt="Patient Info app screenshot 3" />
@@ -41,7 +41,7 @@ function Home() {
                         It was created using HTML, CSS, and JavaScript.
                         The site is a single-page static website that includes videos, an image carousel, and a contact link for service inquiries.
                     </p>
-                    <div className="home-images">
+                    <div className="images">
                         <img src={zaffraImg1} alt="Zaffra website screenshot 1" />
                         <img src={zaffraImg2} alt="Zaffra website screenshot 2" />
                     </div>

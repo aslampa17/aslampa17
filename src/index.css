@@ -68,14 +68,14 @@ a:hover {
     text-decoration: underline;
 }
 
-.home-images {
+.images {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 10px;
 }
 
-.home-images img {
+.images img {
     width: 500px;
     height: auto;
     border-radius: 8px;
