@@ -9,28 +9,14 @@ function Project() {
                     <h5>
                         Repo: <a href="#" target="_blank" rel="noopener noreferrer">GitHub Link</a>
                     </h5>
-                    <p>
-                        
-                    </p>
-                    <div className="images">
-                        <img src="null" alt="" />
-                        <img src="null" alt="" />
-                        <img src="null" alt="" />
-                    </div>
-                </article>
-
-                <article>
-                    <h3>Zaffra</h3>
                     <h5>
-                        Repo: <a href="#" target="_blank" rel="noopener noreferrer">GitHub Link</a>
-                    </h5>
-                    <h5>
-                        Website: <a href="#" target="_blank" rel="noopener noreferrer">Live Site</a>
+                        Site: <a href="#" target="_blank" rel="noopener noreferrer">Live website Link</a>
                     </h5>
                     <p>
                         
                     </p>
                     <div className="images">
+                        <img src="null" alt="" />
                         <img src="null" alt="" />
                         <img src="null" alt="" />
                     </div>
